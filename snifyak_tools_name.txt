@@ -1,0 +1,33 @@
+## Subdomain
+subfinder
+sublist3r
+amass
+
+## Automation
+nuclei
+BlackDragon
+
+## Fuzzing
+fuzz
+dirbuster
+
+## Swagger
+sj
+
+## Utility
+qsreplace
+
+## Subdomain Takeover
+Subover
+Subjack
+Subjy
+
+## XSS
+KXSS
+Dalfox
+
+## DNS
+dnstake
+dnstrace
+
+ 
